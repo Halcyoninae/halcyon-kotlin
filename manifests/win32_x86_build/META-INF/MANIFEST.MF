@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Main-Class: com.halcyoninae.halcyon.Halcyon
+Class-Path: lib/flatlaf-intellij.jar lib/jorbis.jar lib/javazoom.jar lib
+ /jaudiotagger.jar lib/discord-rpc.jar lib/Graphics2DGL.jar lib/flatlaf.
+ jar lib/javazoom-helper.jar lib/gluegen.jar lib/jogl.jar lib/jaffree.ja
+ r lib/tritonus-all.jar lib/nanojson.jar native/win32_x86_gluegen.jar na
+ tive/win32_x86_jogl.jar
+
